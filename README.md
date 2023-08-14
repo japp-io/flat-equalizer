@@ -32,12 +32,12 @@ Get started quickly with the Flat Equalizer app by following these steps:
 
 Explore the user guide to learn how to use each feature of the Flat Equalizer app in-depth:
 
-- [Equalizer](https://japp-io.github.io/flat-equalizer/#equalizer): Tailor audio frequencies, balance responses, and use presets for different music genres.
-- [Bass Boost](https://japp-io.github.io/flat-equalizer/#bass-boost): Enrich lower frequencies for a more resonant sound.
-- [Loudness](https://japp-io.github.io/flat-equalizer/#loudness): Amplify sound levels, but use with caution to prevent distortion.
-- [Virtualizer](https://japp-io.github.io/flat-equalizer/#virtualizer): Experience spatial audio with widened stereo image.
-- [Reverberation](https://japp-io.github.io/flat-equalizer/#reverberation): Simulate room acoustics for added depth.
-- [Channel Balance](https://japp-io.github.io/flat-equalizer/#channel-balance): Adjust left and right channel volumes for consistent audio.
+- [Equalizer](https://japp-io.github.io/flat-equalizer/user-guide/#equalizer): Tailor audio frequencies, balance responses, and use presets for different music genres.
+- [Bass Boost](https://japp-io.github.io/flat-equalizer/user-guide/#bass-boost): Enrich lower frequencies for a more resonant sound.
+- [Loudness](https://japp-io.github.io/flat-equalizer/user-guide/#loudness): Amplify sound levels, but use with caution to prevent distortion.
+- [Virtualizer](https://japp-io.github.io/flat-equalizer/user-guide/#virtualizer): Experience spatial audio with widened stereo image.
+- [Reverberation](https://japp-io.github.io/flat-equalizer/user-guide/#reverberation): Simulate room acoustics for added depth.
+- [Channel Balance](https://japp-io.github.io/flat-equalizer/user-guide/#channel-balance): Adjust left and right channel volumes for consistent audio.
 
 ## Troubleshooting
 
