@@ -1,8 +1,8 @@
 # Flat Equalizer Documentation
 
-Welcome to the official documentation repository for the Flat Equalizer app! This repository hosts comprehensive documentation to help you maximize your audio experience using the Flat Equalizer app on Android devices.
+Welcome to the official documentation for the Flat Equalizer app! This repository hosts comprehensive documentation to help you maximize your audio experience using the Flat Equalizer app on Android devices.
 
-## Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Quick Start](#quick-start)
@@ -26,26 +26,26 @@ Get started quickly with the Flat Equalizer app by following these steps:
 
 4. **Battery Optimization**: For a seamless experience, disable all battery optimizations for the Flat Equalizer app in your device settings.
 
-5. **Supported Music Players**: Refer to the [Supported & Unsupported Media Players](/supported-and-unsupported-music-players) section to see which music players are compatible with the app's effects.
+5. **Supported Music Players**: Refer to the [Supported & Unsupported Media Players](https://japp-io.github.io/flat-equalizer/supported-and-unsupported-music-players) section to see which music players are compatible with the app's effects.
 
 ## User Guide
 
 Explore the user guide to learn how to use each feature of the Flat Equalizer app in-depth:
 
-- [Equalizer](#equalizer): Tailor audio frequencies, balance responses, and use presets for different music genres.
-- [Bass Boost](#bass-boost): Enrich lower frequencies for a more resonant sound.
-- [Loudness](#loudness): Amplify sound levels, but use with caution to prevent distortion.
-- [Virtualizer](#virtualizer): Experience spatial audio with widened stereo image.
-- [Reverberation](#reverberation): Simulate room acoustics for added depth.
-- [Channel Balance](#channel-balance): Adjust left and right channel volumes for consistent audio.
+- [Equalizer](https://japp-io.github.io/flat-equalizer/#equalizer): Tailor audio frequencies, balance responses, and use presets for different music genres.
+- [Bass Boost](https://japp-io.github.io/flat-equalizer/#bass-boost): Enrich lower frequencies for a more resonant sound.
+- [Loudness](https://japp-io.github.io/flat-equalizer/#loudness): Amplify sound levels, but use with caution to prevent distortion.
+- [Virtualizer](https://japp-io.github.io/flat-equalizer/#virtualizer): Experience spatial audio with widened stereo image.
+- [Reverberation](https://japp-io.github.io/flat-equalizer/#reverberation): Simulate room acoustics for added depth.
+- [Channel Balance](https://japp-io.github.io/flat-equalizer/#channel-balance): Adjust left and right channel volumes for consistent audio.
 
 ## Troubleshooting
 
-Encountering issues? Check the [Troubleshooting](/troubleshoot) section for solutions to common problems like effects not working, in-app purchase issues, random stopping, and more.
+Encountering issues? Check the [Troubleshooting](https://japp-io.github.io/flat-equalizer/troubleshoot) section for solutions to common problems like effects not working, in-app purchase issues, random stopping, and more.
 
 ## Feedback and Support
 
-We value your feedback and support! If you have suggestions, feature requests, or need assistance, please don't hesitate to reach out to us at [support@japp.io](mailto:support@japp.io).
+We value your feedback and support! If you have suggestions, feature requests, or need assistance, please don't hesitate to [reach out to us](mailto:support@japp.io).
 
 ---
 
