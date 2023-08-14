@@ -1,6 +1,6 @@
 # Supported and Unsupported Music Players
 
-Most music players let other apps to apply effects to their songs, some require [additional configuration](./supported-and-unsupported-music-players/#requires-additional-configuration), but some do not allow other apps to apply effects to their songs. In such cases, Equalizer will attach itself to the __Global Mix__ as a fallback to support these players, eg. YouTube (this may not work on all the devices).
+Most music players let other apps to apply effects to their songs, some require [additional configuration](../supported-and-unsupported-music-players/#requires-additional-configuration), but some do not allow other apps to apply effects to their songs. In such cases, Equalizer will attach itself to the __Global Mix__ as a fallback to support these players, eg. YouTube (this may not work on all the devices).
 
 
 ## Supported music players
