@@ -15,7 +15,7 @@ This documentation provides detailed information about using the Flat Equalizer 
 
 Before opening your music player, ensure that you enable an audio effect to experience the enhancements.
 
-Equalizer automatically connects to the currently playing music player. While most music players allow external apps to apply effects, some might need [additional configuration](supported-and-unsupported-music-players), and some may not support external modifications. In such cases, Equalizer attaches itself to the **Global Mix** to support these players (please note that this may not work on all devices).
+Equalizer automatically connects to the currently playing music player. While most music players allow external apps to apply effects, some might need [additional configuration](/flat-equalizer/supported-and-unsupported-music-players), and some may not support external modifications. In such cases, Equalizer attaches itself to the **Global Mix** to support these players (please note that this may not work on all devices).
 
 For users of Spotify or YouTube Music, it's recommended to restart these apps while keeping the equalizer or any effect enabled.
 
@@ -23,15 +23,15 @@ The app will provide a notification when it detects a music player. Simply tap t
 
 To enhance your experience further, it's advised to disable all battery optimizations for the Flat Equalizer app.
 
-For a list of supported and unsupported music players, refer to [Supported & Unsupported Media Players](supported-and-unsupported-music-players).
+For a list of supported and unsupported music players, refer to [Supported & Unsupported Media Players](/flat-equalizer/supported-and-unsupported-music-players).
 
 ## User Guide
 
-For a comprehensive user guide on how to use Flat Equalizer and explore all available options, please refer to the [User Guide](user-guide) section.
+For a comprehensive user guide on how to use Flat Equalizer and explore all available options, please refer to the [User Guide](/flat-equalizer/user-guide) section.
 
 ## Troubleshooting
 
-Encountering issues while using the Flat Equalizer app? Check out the [Troubleshooting](troubleshoot) section for solutions to common problems.
+Encountering issues while using the Flat Equalizer app? Check out the [Troubleshooting](/flat-equalizer/troubleshoot) section for solutions to common problems.
 
 ## Feedback and Support
 
