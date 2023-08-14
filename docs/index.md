@@ -23,15 +23,15 @@ The app will provide a notification when it detects a music player. Simply tap t
 
 To enhance your experience further, it's advised to disable all battery optimizations for the Flat Equalizer app.
 
-For a list of supported and unsupported music players, refer to [Supported & Unsupported Media Players](../supported-and-unsupported-music-players).
+For a list of supported and unsupported music players, refer to [Supported & Unsupported Media Players](./supported-and-unsupported-music-players).
 
 ## User Guide
 
-For a comprehensive user guide on how to use Flat Equalizer and explore all available options, please refer to the [User Guide](../user-guide) section.
+For a comprehensive user guide on how to use Flat Equalizer and explore all available options, please refer to the [User Guide](./user-guide) section.
 
 ## Troubleshooting
 
-Encountering issues while using the Flat Equalizer app? Check out the [Troubleshooting](../troubleshoot) section for solutions to common problems.
+Encountering issues while using the Flat Equalizer app? Check out the [Troubleshooting](./troubleshoot) section for solutions to common problems.
 
 ## Feedback and Support
 

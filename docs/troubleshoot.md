@@ -37,4 +37,4 @@ If you encounter issues related to conflicting applications, freezing or uninsta
 
 [developer options]: https://developer.android.com/studio/debug/dev-options.html#enable
 [dontkillmyapp.com]: https://dontkillmyapp.com/
-[configuration]: ../supported-and-unsupported-music-players/#requires-additional-configuration
+[configuration]: ./supported-and-unsupported-music-players/#requires-additional-configuration
