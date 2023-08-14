@@ -29,6 +29,13 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-
+extra:
+  generator: false
 copyright: |
   &copy; 2023 <a href="https://japp.io"  target="_blank" rel="noopener">japp.io</a>
+
+nav:
+- 'index.md'
+- 'user-guide.md'
+- 'supported-and-unsupported-music-players.md'
+- 'troubleshoot.md'
