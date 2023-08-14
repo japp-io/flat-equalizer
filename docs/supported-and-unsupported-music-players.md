@@ -20,31 +20,42 @@ Depending on this, the equalizer may not attach itself to some music players and
 
 ### Requires additional configuration
 
-* [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
-    - Go to Settings - Audio engine - Advanced tweaks and enable MusicFX
-    - Go back to the music player and open the equalizer settings by pressing the second item in the bottom bar
-    - Go to the second (middle) page and enable the MusicFX button
-* [Neutron](https://play.google.com/store/apps/details?id=com.neutroncode.mp)
-    - Go to Settings - Audio Hardware - and enable DSP Effect (Device)
-    - Press confirm at the bottom right to save the setting.
-* [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet)
-    - Press the 3-dots menu in the upper right corner and open Settings - Audio
-    - Press Equalizer to use and choose the second option: 'System Equalizer' 
-* [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree)
-    - Press the hamburger menu and open settings
-    - Press Audio - Select Equalizer and select Default Equalizer
-* [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app)
-    - Play some music
-    - In the bottom left corner, open sound settings
-    - Under the Equalizer category, enable 'Activate' and press OK
-* [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
-    - Select the 'More' tab in the bottom navigation
-    - Press Settings in the top left corner
-    - Under extra settings, press 'Audio' - Audio output
-    - Select AudioTrack
+- [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree)
+    1. Launch the BlackPlayer app.
+    2. Tap the hamburger menu (three horizontal lines) to open settings.
+    3. Navigate to "Audio" > "Equalizer".
+    4. Select "Default Equalizer".
+- [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app)
+    1. Play music in the Deezer app.
+    2. In the bottom left corner, open sound settings.
+    3. Under the "Equalizer" category, enable "Activate" and press "OK".
+- [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet)
+    1. Open the Musicolet app.
+    2. Tap the three-dots menu in the upper right corner.
+    3. Navigate to "Settings" > "Audio".
+    4. Press "Equalizer" to use and choose the second option: "System Equalizer".
+- [Neutron](https://play.google.com/store/apps/details?id=com.neutroncode.mp)
+    1. Launch the Neutron app.
+    2. Go to "Settings" > "Audio Hardware".
+    3. Enable the "DSP Effect (Device)" option.
+    4. Press "Confirm" at the bottom right to save the setting.
+- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)
+    1. Open the Poweramp app.
+    2. Go to "Settings" > "Audio engine" > "Advanced tweaks".
+    3. Enable the "MusicFX" option.
+    4. Go back to the music player interface.
+    5. Press the second item in the bottom bar to open the equalizer settings.
+    6. Navigate to the second (middle) page and enable the "MusicFX" button.
+- [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+    1. Open the VLC app.
+    2. Select the "More" tab in the bottom navigation.
+    3. Press "Settings" in the top left corner.
+    4. Under "Extra settings," press "Audio" > "Audio output".
+    5. Select "AudioTrack".
 
 
 ## Unsupported music players
+
 * [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal)
 * [Plexamp](https://play.google.com/store/apps/details?id=tv.plex.labs.plexamp)
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
