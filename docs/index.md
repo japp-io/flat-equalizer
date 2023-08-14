@@ -15,7 +15,7 @@ This documentation provides detailed information about using the Flat Equalizer 
 
 Before opening your music player, ensure that you enable an audio effect to experience the enhancements.
 
-Equalizer automatically connects to the currently playing music player. While most music players allow external apps to apply effects, some might need [additional configuration](../supported-and-unsupported-music-players), and some may not support external modifications. In such cases, Equalizer attaches itself to the **Global Mix** to support these players (please note that this may not work on all devices).
+Equalizer automatically connects to the currently playing music player. While most music players allow external apps to apply effects, some might need [additional configuration](./supported-and-unsupported-music-players), and some may not support external modifications. In such cases, Equalizer attaches itself to the **Global Mix** to support these players (please note that this may not work on all devices).
 
 For users of Spotify or YouTube Music, it's recommended to restart these apps while keeping the equalizer or any effect enabled.
 
