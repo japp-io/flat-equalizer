@@ -1,1 +1,34 @@
-site_name: My Docs
+site_name: Flat Equalizer
+theme:
+  name: material
+  logo: assets/eq_icon.png
+  favicon: assets/eq_icon.png
+  font:
+    text: Poppins
+  features:
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+      accent: white 
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+copyright: |
+  &copy; 2023 <a href="https://japp.io"  target="_blank" rel="noopener">japp.io</a>
