@@ -1,6 +1,6 @@
 # Welcome to Flat Equalizer
 
-This documentation provides detailed information about using the Flat Equalizer - Bass Booster app to enhance your audio experience on Android devices.
+This documentation provides detailed information about using the Flat Equalizer app to enhance your audio experience on Android devices.
 
 ## Quick Start
 
