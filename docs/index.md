@@ -1,6 +1,6 @@
 # Welcome to Flat Equalizer
 
-This documentation provides detailed information about using the Flat Equalizer app to enhance your audio experience on Android devices.
+This documentation provides detailed information about using the [Flat Equalizer app](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) to enhance your audio experience on Android devices.
 
 ## Quick Start
 
