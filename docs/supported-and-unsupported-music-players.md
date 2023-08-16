@@ -5,17 +5,33 @@ Most music players let other apps to apply effects to their songs, some require 
 
 ## Supported music players
 
-* [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 * [Spotify Music](https://play.google.com/store/apps/details?id=com.spotify.music)
+* [Spotify Lite](https://play.google.com/store/apps/details?id=com.spotify.lite)
+* [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+* [Yandex Music](https://play.google.com/store/apps/details?id=ru.yandex.music)
+* [Samsung Music](https://play.google.com/store/apps/details?id=com.sec.android.app.music)
+* [Music Player - MP3 Player](https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer)
+* [VK: music, video, messenger](https://play.google.com/store/apps/details?id=com.vkontakte.android)
+* [Music Speed Changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed)
+* [Music player](https://play.google.com/store/apps/details?id=com.search.music.mp3.musicplayer)
+* [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
+* [Zvuk](https://play.google.com/store/apps/details?id=com.zvooq.openplay)
+* [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
+* [Offline Music Player](https://play.google.com/store/apps/details?id=mymusic.offlinemusicplayer.mp3player.playmusic)
+* [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
+* [Wynk Music](https://play.google.com/store/apps/details?id=com.bsbportal.music)
+* [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+* [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
+* [Gaana](https://play.google.com/store/apps/details?id=com.gaana)
+* [Zing MP3](https://play.google.com/store/apps/details?id=com.zing.mp3)
 * [Music Player GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
 * [Jair Music Player](https://play.google.com/store/apps/details?id=aj.jair.music)
 * [Phonograph Music Player](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
 * [Shuttle Music Player](https://play.google.com/store/apps/details?id=another.music.player)
-* [Samsung Music](https://play.google.com/store/apps/details?id=com.sec.android.app.music)
 * [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music)
 * [Just (Video) Player](https://play.google.com/store/apps/details?id=com.brouken.player)
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
-* [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
+* [Resso Music](https://play.google.com/store/apps/details?id=com.moonvideo.android.resso)
 
 
 ### Requires additional configuration
@@ -69,3 +85,30 @@ Most music players let other apps to apply effects to their songs, some require 
 * [Qobuz](https://play.google.com/store/apps/details?id=com.qobuz.music)
 * [foobar2000](https://play.google.com/store/apps/details?id=com.foobar2000.foobar2000)
 * Most music applications that came preinstalled on your device
+
+
+### Request Support for a Music Player
+
+In order for Equalizer to attach to a music player, the player needs to broadcast its music session ID, allowing apps like Equalizer to apply effects. However, some music players like Amazon Music, YouTube, etc. do not send this broadcast, which prevents Equalizer from working with them. To improve the Android community, you can help by requesting unsupported apps to implement this feature. You can use the following email template:
+
+```
+Subject: Request for Equalizer Compatibility
+
+Dear developers,
+
+I am a regular user of your music app and an audiophile. I enjoy customizing my music's sound profile using apps like Flat Equalizer. Unfortunately, your music player does not broadcast the session ID of the currently playing music, preventing Equalizer from working effectively. I kindly request you to implement this feature, which would greatly enhance the audio experience for your users.
+
+Other music players like Spotify and YouTube Music support this feature, and I believe it would greatly benefit your app's users as well. Implementing these two broadcasts should enable Equalizer to apply effects:
+
+1. android.media.action.OPEN_AUDIO_EFFECT_CONTROL_SESSION
+2. android.media.action.CLOSE_AUDIO_EFFECT_CONTROL_SESSION
+
+I hope you consider adding this functionality, allowing audiophiles like me to enjoy our music with even greater satisfaction.
+
+Thank you for your attention.
+
+Best regards,
+[Your Name]
+```
+
+This collaborative effort can make a significant difference in improving the audio experience for all users.
