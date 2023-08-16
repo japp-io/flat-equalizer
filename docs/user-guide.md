@@ -34,11 +34,6 @@ Adjust the volume balance between the left and right audio channels. This featur
 
 Remember, the key to a great audio experience is experimentation. Try different settings and combinations to find what sounds best to you. Feel free to explore and adjust until you achieve the desired sound quality.
 
-If you have any further questions or need assistance, don't hesitate to contact us at [support@japp.io](mailto:support@japp.io).
-
-*Note: The above explanations are meant to provide a simple overview of the Flat Equalizer's features. Feel free to explore and experiment to discover your preferred audio settings.*
-
-
 ### Profiles
 
 Profiles are like customized sound settings that you can save and switch between whenever you want. Imagine you're using your car's Bluetooth system – you'd probably prefer a different sound style compared to when you're using your Bluetooth headphones. With profiles, you can easily save these different settings.
@@ -52,3 +47,7 @@ If you'd like to turn off all the equalizer effects when you disconnect your Blu
 You can even share your profiles with friends and family. Just tap the bottom profile button and select "Share Profile." It'll generate a link to share with them. When they tap on the link, your profile will be applied to their device.
 
 This way, you can have different sound setups for different situations and devices, making your audio experience exactly how you want it.
+
+If you have any further questions or need assistance, don't hesitate to contact us at [support@japp.io](mailto:support@japp.io).
+
+*Note: The above explanations are meant to provide a simple overview of the Flat Equalizer's features. Feel free to explore and experiment to discover your preferred audio settings.*
