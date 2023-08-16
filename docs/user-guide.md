@@ -42,7 +42,17 @@ You can create a new profile by tapping the "New profile" button at the bottom o
 
 Once a profile is applied automatically, it will stay active even if you disconnect the device. It will only change if you have another profile set to automatically apply for a different device, like "Speaker." This means that once you switch to a profile using the auto-apply feature, it'll stay that way until another auto-apply profile takes over, or you manually apply a different profile.
 
-If you'd like to turn off all the equalizer effects when you disconnect your Bluetooth device or headphones, you can create a new profile with all effects disabled. Set this profile to auto-apply when connected to a "Speaker," and it will ensure that no effects are active when you're not using your Bluetooth gear. However, keep in mind that disabling all effects will stop the Equalizer background service (for better battery life). As a result, the auto-apply feature will also cease to work, and you will need to reopen the Flat Equalizer app.
+If you wish to disable all equalizer effects upon disconnecting your Bluetooth device or headphones, follow these steps:
+
+1. Create a new profile with all effects turned off.
+2. Configure this profile to automatically apply when connected to a 'Speaker.' This will ensure that no effects are active when your Bluetooth device or headphones are not in use.
+
+However, please be aware of the following implications:
+
+- Disabling all effects will halt the Equalizer background service to improve battery life.
+- Consequently, the auto-apply feature will also become inactive, requiring manual intervention to apply the settings again.
+- To address this, consider enabling only the bass boost effect and setting it to 0%. This approach will keep the service active and maintain the functionality of the auto-apply feature.
+
 
 You can also share your profiles with friends and family. Just tap the bottom profile button and select "Share Profile." It'll generate a link to share with them. When they tap on the link, your profile will be applied to their device.
 
