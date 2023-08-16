@@ -42,9 +42,9 @@ You can create a new profile by tapping the "New profile" button at the bottom o
 
 Once a profile is applied automatically, it will stay active even if you disconnect the device. It will only change if you have another profile set to automatically apply for a different device, like "Speaker." This means that once you switch to a profile using the auto-apply feature, it'll stay that way until another auto-apply profile takes over, or you manually apply a different profile.
 
-If you'd like to turn off all the equalizer effects when you disconnect your Bluetooth device or headphones, you can create a new profile with all effects disabled. Set this profile to auto-apply when connected to a "Speaker," and it will ensure that no effects are active when you're not using your Bluetooth gear.
+If you'd like to turn off all the equalizer effects when you disconnect your Bluetooth device or headphones, you can create a new profile with all effects disabled. Set this profile to auto-apply when connected to a "Speaker," and it will ensure that no effects are active when you're not using your Bluetooth gear. However, keep in mind that disabling all effects will stop the Equalizer background service (for better battery life). As a result, the auto-apply feature will also cease to work, and you will need to reopen the Flat Equalizer app.
 
-You can even share your profiles with friends and family. Just tap the bottom profile button and select "Share Profile." It'll generate a link to share with them. When they tap on the link, your profile will be applied to their device.
+You can also share your profiles with friends and family. Just tap the bottom profile button and select "Share Profile." It'll generate a link to share with them. When they tap on the link, your profile will be applied to their device.
 
 This way, you can have different sound setups for different situations and devices, making your audio experience exactly how you want it.
 
