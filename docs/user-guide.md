@@ -10,23 +10,23 @@ The Equalizer is a powerful tool that lets you fine-tune your audio to suit your
 - **Enhance Bass and Treble**: Boosting the lower frequencies (bass) can give your music a deeper and more thumping feel. Boosting the higher frequencies (treble) adds more sparkle and clarity.
 - **Presets**: Choose from various presets designed for different types of music, like classical, hip-hop, or rock. If you're unsure where to start, these presets can be a great help.
 
-### Bass Boost
+## Bass Boost
 
 Activate the Bass Boost effect to make the low-end frequencies in your music more pronounced. This adds a satisfying rumble and depth to your listening experience.
 
-### Loudness
+## Loudness
 
 The Loudness effect increases the overall volume of your music. It can make your tracks sound more impactful, but be careful not to set it too high, as it may cause distortion or discomfort.
 
-### Virtualizer
+## Virtualizer
 
 Immerse yourself in your music with the Virtualizer effect. It makes the sound feel more spacious, creating a sense that the audio is coming from various directions.
 
-### Reverberation
+## Reverberation
 
 The Reverberation effect adds a sense of space to your music, making it feel like you're listening in a larger room. You can choose different room sizes to match your preference.
 
-### Channel Balance
+## Channel Balance
 
 Adjust the volume balance between the left and right audio channels. This feature is handy if you're not sitting in the center of your speakers or if your headphones have differences in volume between the left and right sides. It can also help prevent volume fluctuations caused by certain phones' limiters.
 
@@ -34,7 +34,7 @@ Adjust the volume balance between the left and right audio channels. This featur
 
 Remember, the key to a great audio experience is experimentation. Try different settings and combinations to find what sounds best to you. Feel free to explore and adjust until you achieve the desired sound quality.
 
-### Profiles
+## Profiles
 
 Profiles are like customized sound settings that you can save and switch between whenever you want. Imagine you're using your car's Bluetooth system – you'd probably prefer a different sound style compared to when you're using your Bluetooth headphones. With profiles, you can easily save these different settings.
 
