@@ -8,7 +8,7 @@ Equalizer attaches itself to the media player that is currently playing. While m
 
 ### In-App Purchase No Longer Available
 
-The in-app purchase is a one-time-only purchase without an expiry date. It's tied to your Google account. If your purchase is not detected by Wavelet, try clearing Play Store data by going to your system settings - apps. After rebooting your device, your purchase should be reloaded and made available to Wavelet again.
+The in-app purchase is a one-time-only purchase without an expiry date. It's tied to your Google account. If your purchase is not detected by Flat Equalizer, try clearing Play Store data by going to your system settings - apps. After rebooting your device, your purchase should be reloaded and made available to Flat Equalizer again.
 
 ### Flat Equalizer Randomly Stopping
 
@@ -20,7 +20,7 @@ If you're facing issues with Legacy Mode while using Bluetooth, navigate to your
 
 ### No Sound Difference via Bluetooth Device or External DAC
 
-Some devices come with libraries that Wavelet uses, which might not support the sample rate of your Bluetooth device or external DAC. To address this problem for Bluetooth devices, access your device's [developer options] and set the Bluetooth sample rate to 48kHz and/or the Bluetooth codec to SBC. Unfortunately, there's no known solution for external DACs at this time.
+Some devices come with libraries that Flat Equalizer uses, which might not support the sample rate of your Bluetooth device or external DAC. To address this problem for Bluetooth devices, access your device's [developer options] and set the Bluetooth sample rate to 48kHz and/or the Bluetooth codec to SBC. Unfortunately, there's no known solution for external DACs at this time.
 
 ### Clipping Issues on Samsung Devices
 

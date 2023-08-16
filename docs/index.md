@@ -25,6 +25,8 @@ To enhance your experience further, it's advised to disable all battery optimiza
 
 For a list of supported and unsupported music players, refer to [Supported & Unsupported Media Players](./supported-and-unsupported-music-players).
 
+You can also create your own sound profiles in Flat Equalizer that can automatically apply when you connect your headphones. Additionally, you have the option to share your profiles with your friends and family. To learn more about profiles and how to use them, please refer to the [Profiles](./user-guide#profiles) section in the User Guide.
+
 ## User Guide
 
 For a comprehensive user guide on how to use Flat Equalizer and explore all available options, please refer to the [User Guide](./user-guide) section.

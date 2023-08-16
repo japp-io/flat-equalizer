@@ -37,3 +37,18 @@ Remember, the key to a great audio experience is experimentation. Try different 
 If you have any further questions or need assistance, don't hesitate to contact us at [support@japp.io](mailto:support@japp.io).
 
 *Note: The above explanations are meant to provide a simple overview of the Flat Equalizer's features. Feel free to explore and experiment to discover your preferred audio settings.*
+
+
+### Profiles
+
+Profiles are like customized sound settings that you can save and switch between whenever you want. Imagine you're using your car's Bluetooth system – you'd probably prefer a different sound style compared to when you're using your Bluetooth headphones. With profiles, you can easily save these different settings.
+
+You can create a new profile by tapping the "New profile" button at the bottom or by selecting "Save As Profile" from the 3-dot menu. Each profile can be set to activate automatically based on the device you're using. For example, if you have a specific profile for your car's Bluetooth, it will be automatically applied when you connect to it.
+
+Once a profile is applied automatically, it will stay active even if you disconnect the device. It will only change if you have another profile set to automatically apply for a different device, like "Speaker." This means that once you switch to a profile using the auto-apply feature, it'll stay that way until another auto-apply profile takes over, or you manually apply a different profile.
+
+If you'd like to turn off all the equalizer effects when you disconnect your Bluetooth device or headphones, you can create a new profile with all effects disabled. Set this profile to auto-apply when connected to a "Speaker," and it will ensure that no effects are active when you're not using your Bluetooth gear.
+
+You can even share your profiles with friends and family. Just tap the bottom profile button and select "Share Profile." It'll generate a link to share with them. When they tap on the link, your profile will be applied to their device.
+
+This way, you can have different sound setups for different situations and devices, making your audio experience exactly how you want it.
