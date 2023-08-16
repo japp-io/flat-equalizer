@@ -15,6 +15,7 @@ Most music players let other apps to apply effects to their songs, some require 
 * [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music)
 * [Just (Video) Player](https://play.google.com/store/apps/details?id=com.brouken.player)
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
+* [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
 
 
 ### Requires additional configuration
